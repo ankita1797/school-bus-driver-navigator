@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InternshipApplication</string>
+    <string name="text">  Bus no. <b>009123</b>\nRoyal Globle School- Chandmari, Guwahati</string>
+    <string name="route_distance">Distance</string>
+    <string name="route_distance_value">40.2 Km</string>
+    <string name="route_duration">Duration</string>
+    <string name="route_duration_value">48 mins</string>
+    <string name="server_error">Server error. Something went wrong with the server</string>
+    <string name="spinner_title">Select Category</string>
+
+</resources>
